@@ -1,7 +1,10 @@
 # LEMS Student Resource Page
 Top pages for students to use 
 
+
+
 Links to helpful pages
+
 
 Google docts/slides/sheets: https://www.google.com/docs/about/ 
 
@@ -13,7 +16,11 @@ Thompson School Home Page: http://www.thompson.k12.co.us/
 
 
 
+
+
 Other resources Pages for Students
+
+
 
 School year clander: http://www.thompson.k12.co.us/page/12547
 
